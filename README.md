@@ -1,5 +1,7 @@
 # Vocational Training Certification
 
+# Vocational Training Certification
+
 A comprehensive Clarity smart contract system for managing vocational training certifications in skilled trades.
 
 ## Features
